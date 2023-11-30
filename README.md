@@ -4,8 +4,8 @@ Proyecto de API sencilla de CRUD creada con Spring Boot y basada en arquitectura
 
 Está formada por los siguientes microservicios:
 
-- Microservicio de Cursos
-- Microservicio de Estudiantes
+- Microservicio de Cursos con PostgreSQL
+- Microservicio de Estudiantes con MySQL
 - Microservicio de API Gateway
 - Microservicio de Eureka
 - Microservicio de Config Server
